@@ -1,2 +1,2 @@
-# C-Course-Project
+C#-Course-Project
 University group project
